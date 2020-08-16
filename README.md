@@ -2,6 +2,7 @@
 
 A simple calculator build with Flutter.
 
-![](images/screenshot.png)
+<img src='images/screenshot.png'  height="500">
+
 
 
